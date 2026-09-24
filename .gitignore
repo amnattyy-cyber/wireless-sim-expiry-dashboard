@@ -1,0 +1,13 @@
+node_modules/
+.pnpm-store/
+.next/
+.open-next/
+dist/
+.wrangler/
+work/
+outputs/
+.codex/
+.agents/
+*.log
+*.tgz
+*.tar.gz
